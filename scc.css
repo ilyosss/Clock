@@ -1,0 +1,31 @@
+.clock{
+    width: 400px;
+    height: 400px;
+    border: 1px solid rgb(3, 19, 73);
+    margin-left: 33%;
+    border-radius: 50%;
+}
+
+.wrapper{
+    position: relative;
+    top: 40%;
+    left: 43%;
+    font-size: 30px;
+    color: rgba(7, 27, 83, 0.952);
+}
+
+#day{
+    position: relative;
+    top: 40%;
+    left: 43%;
+    font-size: 30px;
+    color: aqua;
+}
+
+#midday{
+    position: relative;
+    top: 40%;
+    left: 13%;
+    font-size: 20px;
+    color: rgb(5, 12, 53);
+}
